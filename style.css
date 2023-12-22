@@ -26,7 +26,7 @@ p{
     height:200px;
     background-image: url(hngoc1.png);
     background-size: cover;
-    animation: animationSnow 18s ease-in-out infinite;
+    animation: animationSnow 10s ease-in-out infinite;
 }
 @keyframes animationSnow{
     0%{
@@ -51,7 +51,7 @@ p{
     height: 300px;;
     background-image: url(hngoc2.png);
     background-size: cover;
-    animation: animationSnow 10s ease-in-out infinite;
+    animation: animationSnow 5s ease-in-out infinite;
 }
 @keyframes animationSnow{
     0%{
