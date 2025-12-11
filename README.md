@@ -1,2 +1,3 @@
 # giang_sinh_an_lanh
-Giang_Sinh_An_Lanh
+ver1.0
+ver1.1
