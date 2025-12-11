@@ -1,3 +1,2 @@
 # giang_sinh_an_lanh
-ver1.0
-ver1.1
+Mở bằng VS Code trể tránh bị mất ảnh
