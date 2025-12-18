@@ -1,1 +1,0 @@
-clone and change img, after this live server and view
